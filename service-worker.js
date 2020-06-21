@@ -1,4 +1,4 @@
-const CACHE_NAME = "waktuV1";
+const CACHE_NAME = "waktuV2";
 var urlsToCache = [
   "./",
   "./nav.html",
