@@ -1,0 +1,17 @@
+body {
+    transition: ease-in .5s;
+}
+
+.btn-floating {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+#clock-site {
+    display: flex;
+    width: 100%;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
